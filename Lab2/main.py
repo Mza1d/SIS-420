@@ -14,3 +14,9 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+"""Rompecabezas de 10 digitos:
+
+El problema de rompecabezas con 10 digitos resolviendo con la busqueda primero en anchura
+mientras mas complejo sea el problema, la busqueda tarde mucho de lo normal porque va buscando
+elementos que empieza por el nodo raiz y se exploran todos los vecinos de este modo, recorriendo
+por todo el arbol hasta encontrar el objetivo del problema"""
